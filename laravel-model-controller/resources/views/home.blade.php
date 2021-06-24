@@ -11,7 +11,7 @@
         
         @foreach($movieList as $movie)
         
-            {{$movie->title}} 
+            {{$movie->title}} <br>
         
         @endforeach
         
